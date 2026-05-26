@@ -6,7 +6,7 @@
 # Example entries below - replace with your actual publisher account information
 
 # Google Ad Manager
-google.com, pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0
+google.com, pub-7872361446986790, DIRECT, f08c47fec0942fa0
 
 # Rubicon Project
 rubicon.com, PUBLISHER_ACCOUNT_ID, DIRECT, 0bfd66d529a55807
