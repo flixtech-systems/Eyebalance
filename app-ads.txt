@@ -1,0 +1,18 @@
+# Authorized Digital Sellers for Eyebalance App
+# This file contains the list of authorized digital sellers for the Eyebalance application.
+# For more information on the app-ads.txt format, see: https://iabtechlab.com/ads-txt/
+
+# YOUR_COMPANY_DOMAIN.com, DIRECT, PUBLISHER_ACCOUNT_ID
+# Example entries below - replace with your actual publisher account information
+
+# Google Ad Manager
+google.com, pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0
+
+# Rubicon Project
+rubicon.com, PUBLISHER_ACCOUNT_ID, DIRECT, 0bfd66d529a55807
+
+# AppNexus
+appnexus.com, PUBLISHER_ACCOUNT_ID, DIRECT, f5ab79cb980f11d1
+
+# Add additional authorized sellers below
+# FORMAT: domain.com, SELLER_ID, account_type, seller_id_verification_code
